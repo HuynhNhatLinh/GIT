@@ -11,9 +11,14 @@
             for (int i = 0; i < n; i++) {
                 a[i] = sc.nextInt();
             }
+<<<<<<< HEAD
         }
     }
             // bo sung them chuc nang
          // bing chilling
             // xong chuc nang 2
+=======
+         // anh Linh bucu bucu
+         // anh Huy dep trai qua 
+>>>>>>> chuc_nang_3
 
