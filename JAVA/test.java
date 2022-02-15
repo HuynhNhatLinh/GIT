@@ -13,6 +13,6 @@
             for (int i = 0; i < n; i++) {
                 a[i] = sc.nextInt();
             }
-            // bo sung them chuc nang
-         // bing chilling
+         // anh Linh bucu bucu
+         // anh Huy dep trai qua 
 
